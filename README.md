@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidepaci
+- 👋 Hiya, I’m @davidepaci
 - 👀 I’m specialized in back-end development, mainly with the MERN stack
 - 🌱 I’m currently studying for my bachelor's in Computer Science at the top CS university in Italy (University of Trento), but I'm looking to get my hands on VR/AR development in the future as well
 - 💞️ I’m looking to collaborate on projects that make good use of the MERN stack! The best stack of them all! Or anything Javascript/Node.js-related at all really!
