@@ -1,4 +1,4 @@
-- 👋 Hiya, I’m Davide (/ˈdeɪvɪd/)
+- 👋 Hiya, I’m Davide ([/ˈdeɪvɪd/](https://en.wiktionary.org/wiki/File:en-us-David.ogg))
 - 👀 Areas of interest: Rust, embedded programming, FOSS, privacy, XR, Networking, IAM, accessible software, web development
 - 🎓 I’m currently studying Computer Science at University of Trento, Italy
 - 📫 Feel free to contact me via the sidebar
