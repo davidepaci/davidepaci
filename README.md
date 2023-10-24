@@ -1,5 +1,5 @@
 - 👋 Hiya, I’m Davide
-- 👀 Areas of interest: Rust, embedded programming, FOSS, privacy, XR, Networking, IAM, accessibility
+- 👀 Areas of interest: Rust, embedded programming, FOSS, privacy, XR, Networking, IAM, accessible software, web development
 - 🎓 I’m currently studying Computer Science at University of Trento, Italy
 - 📫 Feel free to contact me via the sidebar
 <!---
