@@ -28,7 +28,7 @@ const davide = {
 
 davidepaci@protonmail.com
 ## Resume
-[Tap here](https://ik.imagekit.io/gzlwhqyn6/Davide_Paci_Resume.pdf?updatedAt=1728141170988)
+[Tap here](https://ik.imagekit.io/gzlwhqyn6/Davide_Paci_Resume.pdf?updatedAt=1728142156925)
 
 <!--
 **davidepaci/davidepaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
