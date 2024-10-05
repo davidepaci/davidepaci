@@ -3,7 +3,7 @@
 
 ```js
 const davide = {
-  code: [typescript, javascript, python, rust, c, c++, sql (mysql/postgres), html, css, php, java, lua, pawn],
+  code: [typescript, javascript, python, rust, c, c++, sql (mysql/postgres), html, css, ejs, php, java, lua, pawn],
   frameworks: [nestjs, nodejs, django, express, wordpress, tailwind],
   libraries: ["socket.io", "webrtc", "ws (websockets)", "auth0", "stripe", "jest", "axios", "playwright", "numpy"],
   developerTools: [Git, Docker, Redis, Mongodb, GitHubActions, AwsS3, AwsEc2, VsCode, VisualStudio,
@@ -28,7 +28,7 @@ const davide = {
 
 davidepaci@protonmail.com
 ## Resume
-[Tap here](https://ik.imagekit.io/gzlwhqyn6/Davide_Paci_Resume.pdf?updatedAt=1728139418150)
+[Tap here](https://ik.imagekit.io/gzlwhqyn6/Davide_Paci_Resume.pdf?updatedAt=1728141170988)
 
 <!--
 **davidepaci/davidepaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
