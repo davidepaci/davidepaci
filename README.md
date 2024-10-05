@@ -26,6 +26,10 @@ const davide = {
 ## Connect with me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-paci/)
 
+davidepaci@protonmail.com
+## Resume
+[Tap here](https://ik.imagekit.io/gzlwhqyn6/Davide_Paci_Resume.pdf?updatedAt=1728139418150)
+
 <!--
 **davidepaci/davidepaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
