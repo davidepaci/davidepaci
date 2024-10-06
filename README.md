@@ -18,7 +18,7 @@ const davide = {
                 },
             },
   fieldsOfInterest: ["backend","cloud computing","systems programming","fintech","high performance computing"
-    "robotics","open source",],
+    "robotics","open source"],
   onTheLookoutFor: "internships" | "hackathons"
 }
 ```
