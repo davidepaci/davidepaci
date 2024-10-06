@@ -17,9 +17,9 @@ const davide = {
                     major: "Computer Science",
                 },
             },
-  fields_of_interest: ["backend","cloud computing","systems programming","fintech","high performance computing"
+  fieldsOfInterest: ["backend","cloud computing","systems programming","fintech","high performance computing"
     "robotics","open source",],
-  on_the_lookout_for: "internships" | "hackathons"
+  onTheLookoutFor: "internships" | "hackathons"
 }
 ```
 ---
