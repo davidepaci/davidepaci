@@ -23,6 +23,8 @@ const davide = {
 }
 ```
 ---
+Currently working as a Software Engineer at [Taxcoder](https://taxcoder.cz/)
+
 ## Connect with me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-paci/)
 
